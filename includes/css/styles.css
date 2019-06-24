@@ -165,3 +165,14 @@ body{
 
 	
 }
+
+footer .container{
+
+    background-color:lightblue;
+
+}
+
+footer ul{
+    list-style-type: none;
+
+}
